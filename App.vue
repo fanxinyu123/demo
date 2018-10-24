@@ -6,6 +6,7 @@
 </template>
 
 <script>
+//这是第一个
 export default {
   name: 'App'
 }
